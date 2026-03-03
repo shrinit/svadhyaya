@@ -129,7 +129,7 @@ It only reflects — holding up a quiet mirror to what you've already written.
 
 - **Modern browsers** with IndexedDB and Web Crypto API support
 - **WebGPU** support recommended for AI (falls back to WASM)
-- **~2.3 GB** storage for AI model (one-time download)
+
 
 Tested on:
 - Chrome/Edge 120+
