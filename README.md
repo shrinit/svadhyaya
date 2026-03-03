@@ -19,16 +19,12 @@ This app embodies three core principles:
 ### Core Experience
 
 - **Felt-sense check-in**: Before writing, pause and notice how you're arriving
-- **Reflective AI**: After each entry, receive one thoughtful question (never advice)
-- **Learning over time**: The AI recognizes your patterns, emotional vocabulary, and rhythms
 - **Burn entry**: Write something, breathe, delete it forever — some things are only for the moment
 - **Safe mode**: Disable AI entirely when you need just a blank page
 - **Monthly letters**: Once a month, the app distills your entries into a letter written to you, by you
 
 ### Privacy & Security
 
-- **AES-256 encryption** at rest using your passphrase
-- **On-device AI** via WebLLM (Phi-3 Mini model)
 - **No cloud, no servers, no accounts**
 - **Zero network requests** during journaling (verifiable in DevTools)
 - **IndexedDB storage** with encrypted entries
