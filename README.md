@@ -98,21 +98,6 @@ src/
 └── index.css          # Global styles + design tokens
 ```
 
-## AI Behavior
-
-The AI adapts its reflections based on how long you've been journaling:
-
-- **Days 1-7**: Warm but universal observations. Still learning.
-- **Days 8-30**: Starting to reference patterns and recurring themes.
-- **Day 30+**: Deep, specific observations that demonstrate genuine understanding.
-
-The AI never:
-- Gives advice
-- Diagnoses
-- Performs empathy
-
-It only reflects — holding up a quiet mirror to what you've already written.
-
 ## Privacy Notes
 
 - Your passphrase is never stored — it's the encryption key itself
